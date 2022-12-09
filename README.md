@@ -63,5 +63,6 @@ Below will be the action happens after this :
 
 Run train.py from another gitbash command "
 ```
+python train.py
 python train.py 0.9 0.9
 ```
